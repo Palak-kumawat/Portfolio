@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Palak-kumawat.github.io/Portfolio/static/css/main.d85b782f.css",
-    "main.js": "/Palak-kumawat.github.io/Portfolio/static/js/main.588b0be9.js",
-    "static/media/palak.png": "/Palak-kumawat.github.io/Portfolio/static/media/palak.795568e1e0bbb8f3c78a.png",
-    "index.html": "/Palak-kumawat.github.io/Portfolio/index.html",
-    "main.d85b782f.css.map": "/Palak-kumawat.github.io/Portfolio/static/css/main.d85b782f.css.map",
-    "main.588b0be9.js.map": "/Palak-kumawat.github.io/Portfolio/static/js/main.588b0be9.js.map"
+    "main.css": "/Portfolio/static/css/main.d85b782f.css",
+    "main.js": "/Portfolio/static/js/main.53af975e.js",
+    "static/media/palak.png": "/Portfolio/static/media/palak.795568e1e0bbb8f3c78a.png",
+    "index.html": "/Portfolio/index.html",
+    "main.d85b782f.css.map": "/Portfolio/static/css/main.d85b782f.css.map",
+    "main.53af975e.js.map": "/Portfolio/static/js/main.53af975e.js.map"
   },
   "entrypoints": [
     "static/css/main.d85b782f.css",
-    "static/js/main.588b0be9.js"
+    "static/js/main.53af975e.js"
   ]
 }
